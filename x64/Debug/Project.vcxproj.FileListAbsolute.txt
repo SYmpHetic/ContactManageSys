@@ -1,0 +1,4 @@
+F:\Coding\Contact_Manage_System\x64\Debug\Contacts_Manage_System.exe
+F:\Coding\Contact_Manage_System\x64\Debug\Contacts_Manage_System.pdb
+F:\Coding\Project\x64\Debug\Contacts_Manage_System.exe
+F:\Coding\Project\x64\Debug\Contacts_Manage_System.pdb
